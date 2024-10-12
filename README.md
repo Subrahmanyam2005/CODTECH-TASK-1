@@ -111,3 +111,6 @@ While the Simple Calculator provides fundamental functionality, it can be expand
 4. *History Feature*: Implement a feature to keep track of previous calculations and allow users to view their calculation history.
 5. *Refactoring*: Split the code into smaller methods for each individual operation to adhere to best practices in software design.
 
+Output:
+
+![Screenshot (95)](https://github.com/user-attachments/assets/c62da938-68a2-41b0-8be5-68bceee8da44)
